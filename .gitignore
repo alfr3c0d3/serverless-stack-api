@@ -48,5 +48,8 @@ Session.vim
 env.yml
 .env
 
-# Jetbrains IDEs
+#IDEs
+.vscode
+.vs
 .idea
+
