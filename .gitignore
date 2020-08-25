@@ -44,15 +44,15 @@ Session.vim
 .webpack
 .serverless
 
-# env
+# Env
 env.yml
 .env
 
-#IDEs
+# IDEs
 .vscode
 .vs
 .idea
 
-#Mock data
+# Mock data
 mocks
 
