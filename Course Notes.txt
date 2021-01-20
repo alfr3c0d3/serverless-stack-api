@@ -13,6 +13,7 @@ Secret Key: sk_test_51HK6RkFY4YknzBeLY9nkPG4Oh2MOkZGIoRDTr6VqXyB2UvK0UI4pQkEk3IR
 
 S3Bucket Name: notes-app-upload-al
 Api Gateway Id: dfqhvoidr9
+API Url: https://dfqhvoidr9.execute-api.us-east-1.amazonaws.com
 
 Service Information
 service: notes-app-api
