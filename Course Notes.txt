@@ -1,10 +1,10 @@
-PoolId: us-east-1_9hNiLVM2s
-PoolARN: arn:aws:cognito-idp:us-east-1:092368809557:userpool/us-east-1_9hNiLVM2s
+User PoolId: us-east-1_9hNiLVM2s
+User Pool ARN: arn:aws:cognito-idp:us-east-1:092368809557:userpool/us-east-1_9hNiLVM2s
 
-AppClientId: 6o13979ktlosqddcc96uca81rm
+App Client Id: 6o13979ktlosqddcc96uca81rm
 
-Identity pool Id: us-east-1:bdeaef5b-cec4-4b38-b7e9-cb22a8bfde73
-Identity pool ARN: arn:aws:cognito-identity:us-east-1:092368809557:identitypool/us-east-1:bdeaef5b-cec4-4b38-b7e9-cb22a8bfde73
+Identity pool Id: us-east-1:652b75d1-d008-45de-94a9-3163967c2e7a
+Identity pool ARN: arn:aws:cognito-identity:us-east-1:092368809557:identitypool/us-east-1:652b75d1-d008-45de-94a9-3163967c2e7a
 
 Stripe:
 
