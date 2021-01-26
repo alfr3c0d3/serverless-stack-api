@@ -1,19 +1,15 @@
 User PoolId: us-east-1_9hNiLVM2s
-User Pool ARN: arn:aws:cognito-idp:us-east-1:092368809557:userpool/us-east-1_9hNiLVM2s
-
+Identity pool Id: us-east-1:2de77502-1cb7-4daf-87a3-cc925b1e0290
 App Client Id: 6o13979ktlosqddcc96uca81rm
-
-Identity pool Id: us-east-1:652b75d1-d008-45de-94a9-3163967c2e7a
-Identity pool ARN: arn:aws:cognito-identity:us-east-1:092368809557:identitypool/us-east-1:652b75d1-d008-45de-94a9-3163967c2e7a
+S3Bucket Name: notes-app-upload-al
 
 Stripe:
 
 Publishable Key: pk_test_51HK6RkFY4YknzBeLnssXT7XI30nIFjAEkMycGAWFSQWfEHUmte3s1JDzBkTNH6FuSVwZrP6LFkE010PsBO9EPBJ600gChupaLi
 Secret Key: sk_test_51HK6RkFY4YknzBeLY9nkPG4Oh2MOkZGIoRDTr6VqXyB2UvK0UI4pQkEk3IRKclgjPtQL9bEMnG0rXjhG6UekIga600M8mQvGVV
 
-S3Bucket Name: notes-app-upload-al
 Api Gateway Id: dfqhvoidr9
-API Url: https://dfqhvoidr9.execute-api.us-east-1.amazonaws.com
+API Url: https://dfqhvoidr9.execute-api.us-east-1.amazonaws.com/prod
 
 Service Information
 service: notes-app-api
